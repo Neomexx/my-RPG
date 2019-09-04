@@ -1,0 +1,7 @@
+Pour jouer, cliquez sur "play"
+Pour afficher l aide, cliquez sur help
+Pour changer les options, cliquez sur options
+Pour deplacer votre personnage, utilisez les fleches directionnelles ou ZQSD
+Appuyez sur I pour afficher votre inventaire et echap pour mettre en pause
+Appuyez sur E ou entree pour parler aux pnj ou pour engager un combat
+Bonne chance dans votre aventure !

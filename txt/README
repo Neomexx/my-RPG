@@ -1,0 +1,21 @@
+CHRONOLOGICAL ORDER :
+
+Introduce_story : -new_world.txt
+		  -story_begining.txt
+
+Introduce_fight : -against_ava1.txt
+		  -against_ava2.txt
+		  -against_ava3.txt
+		  -against_ava4.txt
+
+begin_adventure : -meet_astek.txt
+
+trader_quest :	  -begin_quest.txt
+
+(for each general)
+general_dialogue : -meetic_first.txt
+		   -meetic_second.txt
+		   -meetic_third.txt
+
+final_fight_ava :  -final_fight.txt
+		   -end_final_fight.txt
