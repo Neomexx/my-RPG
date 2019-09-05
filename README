@@ -1,0 +1,18 @@
+An RPG game created with CSFML.
+
+USAGE
+ ./my_rpg
+
+OPTIONS
+ -h	print the usage and quit.
+
+USER INTERACTIONS
+
+MAP
+
+50 51 53 54 55 56 57 58 59
+40 41 43 44 45 46 47 48 49
+30 31 33 34 35 36 37 38 39
+20 21 23 24 25 26 27 28 29
+10 11 13 14 15 16 17 18 19
+00 01 03 04 05 06 07 08 09
