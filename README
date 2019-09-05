@@ -2,6 +2,7 @@ An RPG game created with CSFML.
 
 USAGE
  ./my_rpg
+ click on the book then press space bar.
 
 OPTIONS
  -h	print the usage and quit.
